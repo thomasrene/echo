@@ -266,6 +266,7 @@ a:hover, a:focus, a:active {
   font-size: 26px;
   font-weight: 700;
   padding-left: 15px;
+  width:50px;
 }
 
 .probootstrap-navbar .navbar-brand:hover {
